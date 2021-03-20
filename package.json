@@ -1,0 +1,14 @@
+{
+  "name": "easyline",
+  "version": "0.0.1",
+  "description": "A timeline creation tool",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Enzo MAROS",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^12.0.1"
+  }
+}
